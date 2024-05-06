@@ -1,0 +1,23 @@
+class,re
+1,/.*very good.*/i
+2,/.*excellent good.*/i
+3,/.*very hard.*/i
+4,/.*make progress.*/i
+5,/.*amazing.*/i
+6,/.*nice.*/i
+7,/.*great.*/i
+8,/.*adorable.*/i
+9,/.*proud of.*/i
+10,/.*Awesome.*/i
+11,/.*beautiful.*/i
+12,/.*smarter.*/i
+13,/.*Well of.*/i
+14,/.*You are so.*/i
+15,/.*Bingo.*/i
+16,/.*wonderful.*/i
+17,/.*precious.*/i
+18,/.*Remarkable.*/i
+19,/.*Terrific.*/i
+20,/.*Outstanding.*/i
+21,/.*improving.*/i
+22,/.*perfect.*/i

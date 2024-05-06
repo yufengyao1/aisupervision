@@ -1,0 +1,13 @@
+requests
+imageio
+imageio-ffmpeg
+onnxruntime-gpu==1.10.0
+pydub
+ffmpeg-python
+opencv_python
+bucketstore
+moviepy==1.0.3
+# numba
+numpy==1.21.6
+loguru
+nvidia-ml-py==11.515.48

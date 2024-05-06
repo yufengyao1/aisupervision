@@ -1,0 +1,12 @@
+class,re
+1,/.*can you.*/i
+2,/.*could you.*/i
+3,/.*what is.*/i
+4,/.*What has been.*/i
+5,/.*What are.*/i
+6,/.*What is.*/i
+7,/.*Are you.*/i
+8,/.*WHAT'S.*/i
+9,/.*where.*/i
+10,/.*what.*/i
+11,/.*which.*/i
